@@ -1,0 +1,57 @@
+*{
+    color: aliceblue;
+    width: 100%;
+    font-family: 'Play', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+  }
+  body{
+    background: url(img/city-buildings-lights-8-bit.jpeg); 
+  }
+  .name{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+  }
+  .aboutme{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    font-size: 32px;
+  }
+.positivnoe{
+    display: block;
+    text-align: center;
+    float: left;
+}
+.posorsemyi{
+    display: block;
+    text-align: center;
+    float: left;
+}
+.barabani{
+    display: block;
+    text-align: center;
+    float: left;
+}
+.barabani a{
+    text-decoration: none;
+}
+.positivnoe a{
+    text-decoration: none;
+}
+.posorsemyi a{
+    text-decoration: none;
+}
+.positivnoe a:hover{
+    color:#FFFFFF;
+    background-color: #5900ff;
+}
+.posorsemyi a:hover{
+    color:#FFFFFF;
+    background-color: #5900ff;
+}
+.barabani a:hover{
+    color: #FFFFFF;
+    background-color: #5900ff;
+}
